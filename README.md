@@ -18,7 +18,7 @@ Network Inspector is a Python package for examining and analyzing network-relate
 
 ## Installation
 
-You can install Network Inspector via pip:
+You can install Network Inspector via git:
 
 ```bash
-pip install network-inspector
+git clone https://github.com/Inshasi/Net_Inspector.git
